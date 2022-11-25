@@ -1,0 +1,144 @@
+<style type="text/css">
+#contenedor {
+    display: table;
+    border:0;
+    max-width:760px;
+    width: 100%;
+    //text-align: center;
+    margin: 0 auto;
+}
+#contenido {
+float:center;
+width:100%;
+}
+#contenido > div {
+    display: table-cell;
+    border: 0;
+    vertical-align: middle;
+    padding: 0px;
+
+}
+
+h3 {
+font-size: 40px;
+  text-align: center;
+  width:100%;
+}
+h4 {
+font-size: 25px;
+  color: #3290D4; 
+  text-align: right;
+  width:100%;
+}
+
+h5 {
+font-size: 25px;
+  color: #3290D4; 
+ text-align:center;
+  width:100%;
+}
+
+
+.col1{ 
+   width: 20%;
+   column-count: 2;
+
+  
+}
+
+.col2{
+width:50%; 
+  font-size: 15px;
+ text-align:center;
+  
+  
+}
+
+
+.col3{
+ width:30%; 
+  font-size: 15px;
+  
+
+      
+}
+.col4{
+width:40%;
+  font-size: 16px;
+ text-align:right;
+ 
+}
+
+.h3titulo {
+font-size: 40px;
+  text-align: center;
+  width:100%;
+}
+
+.h4sub {
+font-size: 28px;
+  color: #4BCBD6; 
+  text-align: center;
+  width:100%;
+  font-weight: bold;
+
+}
+
+.h5sub {
+font-size: 28px;
+  color: #4BCBD6; 
+  text-align: left;
+  width:100%;
+  font-weight: bold;
+}
+
+.h6sub {
+font-size: 25px;
+  color: #4BCBD6; 
+  text-align: right;
+  width:100%;
+    font-weight: bold;
+}
+
+p {
+width:100%;
+font-size: 14px;
+text-align:center;
+
+}
+
+.p1 {
+width:100%;
+font-size: 15px;
+ text-align: left;
+  
+}
+
+.p2 {
+width:100%;
+font-size: 15px;
+ text-align: center;
+
+  
+}
+
+.p3 {
+width:100%;
+font-size: 15px;
+ text-align: right;
+  
+}
+
+.esp1{
+   margin-left: 20%;
+  font-size: 15px;
+  }
+
+.esp2{
+   margin-right: 20%;
+  font-size: 15px;
+  }
+
+.salto_linea{clear:both; height:20px;}
+
+</style>
